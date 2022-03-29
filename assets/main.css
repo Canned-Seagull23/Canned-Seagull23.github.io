@@ -1,15 +1,3 @@
-.flex-container {
-    display: flex;
-}
-.justify-content-center {
-    justify-content: center;
-}
-.flex-direction-column {
-    flex-direction: column;
-}
-.no-flex {
-    display: block;
-}
 @font-face {
     font-family: SourceSansPro;
     src: url(/assets/fonts/SourceSansPro-Regular.ttf);
@@ -26,4 +14,17 @@ body {
     font-family: SourceSansPro;
     background-color: #122736;
     color: white;
+}
+
+.flex-container {
+    display: flex;
+}
+.justify-content-center {
+    justify-content: center;
+}
+.flex-direction-column {
+    flex-direction: column;
+}
+.no-flex {
+    display: block;
 }
