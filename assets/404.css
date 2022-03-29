@@ -1,3 +1,7 @@
 .error-heading {
     font-size: 10rem;
+    text-align: center;
+}
+.error-description {
+    text-align: center;
 }
