@@ -7,6 +7,9 @@
 .flex-direction-column {
     flex-direction: column;
 }
+.no-flex {
+    display: block;
+}
 @font-face {
     font-family: SourceSansPro;
     src: url(/assets/fonts/SourceSansPro-Regular.ttf);
